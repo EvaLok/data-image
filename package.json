@@ -1,0 +1,24 @@
+{
+  "name": "data-image",
+  "version": "0.0.1",
+  "description": "convert data to image(s) and back again!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvaLok/data-image.git"
+  },
+  "keywords": [
+    "data",
+    "convert",
+    "image"
+  ],
+  "author": "Eva Lok (https://github.com/EvaLok)",
+  "license": "MIT: https://github.com/EvaLok/data-image/blob/master/LICENSE",
+  "bugs": {
+    "url": "https://github.com/EvaLok/data-image/issues"
+  },
+  "homepage": "https://github.com/EvaLok/data-image#readme"
+}
