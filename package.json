@@ -16,12 +16,15 @@
     "image"
   ],
   "author": "Eva Lok (https://github.com/EvaLok)",
-  "license": "MIT: https://github.com/EvaLok/data-image/blob/master/LICENSE",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EvaLok/data-image/issues"
   },
   "homepage": "https://github.com/EvaLok/data-image#readme",
   "devDependencies": {
     "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "gm": "^1.21.1"
   }
 }
